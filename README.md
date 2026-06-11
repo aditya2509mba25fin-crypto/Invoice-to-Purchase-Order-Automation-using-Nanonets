@@ -1,4 +1,4 @@
-# Invoice-to-Purchase-Order-Automation-using-Nanonets# Invoice-to-Purchase-Order-Automation-using-Nanonets
+# Invoice-to-Purchase-Order-Automation-using-Nanonets
 # 🤖 Invoice to Purchase Order Automation using Nanonets
 
 ## 📌 Project Overview
@@ -168,7 +168,7 @@ This project demonstrates how Nanonets can automate the Invoice-to-Purchase Orde
 
 ## 👩‍🎓 Author
 
-**Aditya Chaudhry**  
+**Aditya Sharma**  
 MBA (Applied Finance)
 
 ## 📖 Project Title
